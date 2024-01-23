@@ -1,6 +1,7 @@
 # Heat simulation of a single heatfin CPU radiator
 
-University assigment in first year of a master's degree in applied mathematics.
+University assigment in first year of a master's degree in applied mathematics.  
+You can find a full report in /doc.
 
 
 ## Compilation
